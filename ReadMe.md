@@ -1,4 +1,4 @@
-# 💫 About Me: honours bhadauria
+# 💫 About Me: 😁
 I am currently working on python / Django /html /CSS / JS 
 
 
@@ -19,4 +19,3 @@ I am currently working on python / Django /html /CSS / JS
 ---
 [![](https://visitcount.itsvg.in/api?id=honoursbhaduria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
