@@ -51,3 +51,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/honoursbhaduria/honoursbhaduria/output/snake.svg" alt="Snake animation" />
+
+###
