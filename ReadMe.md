@@ -54,6 +54,9 @@
 </picture>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=honoursbhaduria&theme=dark)](https://git.io/streak-stats)
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/honoursbhaduria/count.svg?"  />
