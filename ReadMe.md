@@ -14,11 +14,11 @@
   <samp>
     <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2></b>
     <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" />
-    <p>Current Projects:</p>
+    <p>Frist Projects:</p>
     <ul>
-      <li><a href="https://github.com/honoursbhaduria/study-bud">Study Bud</a></li>
-      <li><a href="https://github.com/honoursbhaduria/game_monster_fight-">Game: Monster Fight</a></li>
-      <li><a href="https://github.com/honoursbhaduria/AI_python-project">AI Python Project</a></li>
+      <li><a href="https://github.com/honoursbhaduria/study-bud">Study Bud</a> </li>
+      <li><a href="https://github.com/honoursbhaduria/game_monster_fight-">Game: Monster Fight</a> </li>
+      <li><a href="https://github.com/honoursbhaduria/AI_python-project">AI Python Project</a> </li>
     </ul>
   </samp>
 </details>
@@ -27,7 +27,7 @@
 
 <ul>
   <li>
-    <p>📋 Languages:</p>
+    <p> Languages:</p>
     <p>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,7 +38,7 @@
   </li>
 
   <li>
-    <p>📦 Frameworks / Libraries:</p>
+    <p> Frameworks / Libraries:</p>
     <p>
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -46,14 +46,14 @@
   </li>
 
   <li>
-    <p>🌐 Frontend:</p>
+    <p> Frontend:</p>
     <p>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     </p>
   </li>
 
   <li>
-    <p>🌩️ Cloud & DevOps:</p>
+    <p> Cloud & DevOps:</p>
     <p>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -61,7 +61,7 @@
   </li>
 
   <li>
-    <p>🛢️ Databases:</p>
+    <p> Databases:</p>
     <p>
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -69,7 +69,7 @@
   </li>
 
   <li>
-    <p>🖥️ IDEs / Editors:</p>
+    <p> IDEs / Editors:</p>
     <p>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -77,7 +77,7 @@
   </li>
 
   <li>
-    <p>🔧 Tools / Platforms:</p>
+    <p> Tools / Platforms:</p>
     <p>
       <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -102,37 +102,42 @@
   <br/>
 
   <p>
-    💡 Web Development Enthusiast <br/>
-    🎯 Aspiring Full-Stack Developer <br/>
-    🔭 Currently learning Django, JavaScript & DevOps <br/>
-    ⚡ Fun fact: I create bugs faster than I fix them (but I'm getting better! 😉)
+     Web Development Enthusiast <br/>
+     Aspiring Full-Stack Developer <br/>
+     Currently learning Django, JavaScript & DevOps <br/>
+     Fun fact: I create bugs faster than I fix them (but I'm getting better! 😉)
   </p>
+</div>
 
+##  Experience
+- [LawVriksh](https://www.lawvriksh.com/) - Backend Intern developing production-ready services for a legal knowledge platform using FastAPI.
+- [Twiggle](https://www.twiggle.co.in/) - Backend Developer engineering production services and REST APIs at scale with Django.
+- [CyberVidya](https://cybervidya.pages.dev/) - Open Source Contributor & Maintainer for a cybersecurity education platform with 2000+ daily active users.
+
+##  Projects
+- [Django Zero to Pro Course](https://django-from-zero-to-pro.vercel.app/) - Comprehensive course designed to guide you from beginner to advanced levels. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/Django-From-Zero-to-Pro?style=flat-square&color=blue)
+- [ESECURE – AI T&C Analyzer](https://esecure-orcin.vercel.app/) - Chrome Extension  returns a structured analysis of T&C. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/esecure?style=flat-square&color=blue)
+- [Saathi V2](https://saathi-v2.vercel.app/) - Comprehensive platform designed to provide support and resources for students. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/saathi-v2?style=flat-square&color=blue)
+- [Anime Kai](https://anime-kai-rho.vercel.app/) - search for anime and manage personal watchlists. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/anime-kai?style=flat-square&color=blue)
+- [Arize – AI Fitness & Health Platform](https://arize-theta.vercel.app/) - AI fitness platform with multi-agent orchestration using LangGraph. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/arize?style=flat-square&color=blue)
+- [PlantCare AI – Rice Disease Detection](https://plantcare-ai-4ojf.onrender.com/) - 3-class rice leaf disease classifier with 96.67% validation accuracy. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/plantcare-ai?style=flat-square&color=blue)
+- [LogScanner – Cybersecurity Log Intelligence](https://logscanner-ver.vercel.app/) - Real-time log analysis engine using Pathway's streaming dataflow. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/YOUR_LOGS_CHECKER?style=flat-square&color=blue)
+- [Canvas4Blog – RAG Research Blogging](https://canvas4blog.vercel.app/) - Auto-drafts context-aware research posts. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/canvas4blog?style=flat-square&color=blue)
+- [MovieDog – Conversational Discovery](https://moviedog.vercel.app/) - Movie search and manage personal watchlists. ![Commits](https://img.shields.io/github/commit-activity/t/honoursbhaduria/moviedog?style=flat-square&color=blue)
+
+<div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 </div>
 
 <div align="center">
-  <h2>📈 GitHub Stats & Activity</h2>
+  <h2> GitHub Stats & Activity</h2>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=honoursbhaduria&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
-
-  <br />
+ 
 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=honoursbhaduria&show_icons=true&theme=react" alt="honoursbhaduria GitHub stats" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=honoursbhaduria&theme=react" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoursbhaduria&langs_count=8&theme=react&layout=compact" alt="Top Langs" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=honoursbhaduria&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react" alt="Private Stats" />
       </td>
     </tr>
   </table>
