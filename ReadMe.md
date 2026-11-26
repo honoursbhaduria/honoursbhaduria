@@ -9,13 +9,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
 </div>
 
-<!-- PET:START -->
-<p align="center">
-  <img src="./pet.svg?v=20261126" alt="The Knight, a GitHub pet" width="900" />
-</p>
 
-<p align="center"><sub><b>The Knight</b> · Level 8 Sprout · 1-day streak · 16 contributions this week · mood: ecstatic</sub></p>
-<!-- PET:END -->
 
 <details align="center">
   <summary><b><samp> 🔥 Light bonfire </samp></b></summary>
