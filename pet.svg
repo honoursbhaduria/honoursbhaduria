@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="petTitle petDesc">
+<title id="petTitle">The Knight - GitHub pet</title>
+<desc id="petDesc">Level 8 Sprout with a 1-day streak. Mood: ecstatic. 2463 XP from GitHub contributions.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/>
+    <stop offset="1" stop-color="#161b22"/>
+  </linearGradient>
+  <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#aae9b2"/>
+    <stop offset="0.55" stop-color="#56d364"/>
+    <stop offset="1" stop-color="#35833e"/>
+  </linearGradient>
+  <linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff3d6"/>
+    <stop offset="1" stop-color="#e8c78f"/>
+  </linearGradient>
+  <linearGradient id="xp" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2ea043"/>
+    <stop offset="1" stop-color="#7ee787"/>
+  </linearGradient>
+</defs>
+<style>
+.pet { animation: float 4.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+.shadow { animation: shadow 4.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+.eyes { animation: blink 5.6s infinite; transform-box: fill-box; transform-origin: center; }
+.tail { animation: wag 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: 0% 85%; }
+.sparkle { animation: twinkle 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+.bob { animation: bob 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+@keyframes shadow { 0%, 100% { transform: scaleX(1); opacity: .35; } 50% { transform: scaleX(.9); opacity: .25; } }
+@keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 95.5% { transform: scaleY(.08); } }
+@keyframes wag { 0%, 100% { transform: rotate(-7deg); } 50% { transform: rotate(11deg); } }
+@keyframes twinkle { 0%, 100% { opacity: .15; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.15); } }
+@keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+@media (prefers-reduced-motion: reduce) {
+  .pet, .shadow, .eyes, .tail, .sparkle, .bob { animation: none !important; }
+}
+</style>
+<rect x="0.5" y="0.5" width="899" height="319" rx="18" fill="url(#bg)" stroke="#30363d"/>
+<circle cx="30" cy="34" r="1.3" fill="#e6edf3" opacity="0.35"/><circle cx="72" cy="96" r="1.0" fill="#e6edf3" opacity="0.22"/><circle cx="118" cy="40" r="1.6" fill="#e6edf3" opacity="0.3"/><circle cx="330" cy="60" r="1.2" fill="#e6edf3" opacity="0.25"/><circle cx="352" cy="250" r="1.4" fill="#e6edf3" opacity="0.2"/><circle cx="60" cy="286" r="1.1" fill="#e6edf3" opacity="0.25"/><circle cx="300" cy="150" r="1.0" fill="#e6edf3" opacity="0.18"/><circle cx="24" cy="190" r="1.2" fill="#e6edf3" opacity="0.2"/><circle cx="862" cy="300" r="1.3" fill="#e6edf3" opacity="0.18"/>
+<line x1="350" y1="42" x2="350" y2="282" stroke="#21262d" stroke-width="1"/>
+<g>
+  <rect x="52" y="28" width="266" height="66" rx="16" fill="#161b22" stroke="#30363d"/>
+  <path d="M108 93 L134 93 L120 111 Z" fill="#161b22" stroke="#30363d"/>
+  <rect x="109" y="91" width="26" height="4" fill="#161b22"/>
+  <text x="185" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" fill="#e6edf3">So many green squares!</text>
+</g>
+<ellipse class="shadow" cx="185" cy="276" rx="72" ry="12" fill="#000" opacity="0.35"/>
+<g class="pet">
+  <path class="tail" d="M246 236 C 282 232 292 202 272 188" fill="none" stroke="#35833e" stroke-width="13" stroke-linecap="round"/>
+  <path d="M143 158 L132 106 L178 138 Z" fill="#35833e" stroke="#35833e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M227 158 L238 106 L192 138 Z" fill="#35833e" stroke="#35833e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M143 152 L137 122 L166 140 Z" fill="#aae9b2" opacity=".5"/>
+  <path d="M227 152 L233 122 L204 140 Z" fill="#aae9b2" opacity=".5"/>
+  <ellipse cx="185" cy="206" rx="70" ry="62" fill="url(#body)" stroke="#35833e" stroke-width="3"/>
+  <ellipse cx="185" cy="228" rx="43" ry="33" fill="#aae9b2" opacity=".55"/>
+  <ellipse cx="160" cy="264" rx="19" ry="9" fill="#35833e"/>
+  <ellipse cx="210" cy="264" rx="19" ry="9" fill="#35833e"/>
+  <ellipse cx="118" cy="222" rx="12" ry="18" fill="#35833e" transform="rotate(18 118 222)"/>
+  <ellipse cx="252" cy="222" rx="12" ry="18" fill="#35833e" transform="rotate(-18 252 222)"/>
+  <ellipse cx="146" cy="214" rx="10" ry="6" fill="#ff8fa3" opacity=".45"/>
+  <ellipse cx="224" cy="214" rx="10" ry="6" fill="#ff8fa3" opacity=".45"/>
+  <g class="eyes">
+    <ellipse cx="163" cy="196" rx="9" ry="11" fill="#0b0f14"/>
+    <ellipse cx="207" cy="196" rx="9" ry="11" fill="#0b0f14"/>
+    <circle cx="166" cy="192" r="3" fill="#fff"/>
+    <circle cx="210" cy="192" r="3" fill="#fff"/>
+  </g>
+  <path d="M169 219 Q185 236 201 219 Q185 228 169 219 Z" fill="#0b0f14"/>
+  
+  
+<g class="bob">
+  <path d="M186 150 C 185 132 185 120 187 106" stroke="#2ea043" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M187 114 C 168 104 155 108 148 120 C 163 130 178 126 187 114 Z" fill="#3fb950"/>
+  <path d="M187 106 C 204 94 217 98 224 110 C 209 121 195 117 187 106 Z" fill="#56d364"/>
+</g>
+<g class="bob">
+  <path d="M256 246 L296 170" stroke="#c9d1d9" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M292 178 L306 162 L302 181 L297 184 Z" fill="#e6edf3"/>
+  <path d="M245 242 L267 250" stroke="#8b949e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M256 246 L249 260" stroke="#6e7681" stroke-width="5" stroke-linecap="round"/>
+</g>
+  <path class="sparkle" style="animation-delay:0s" d="M104 152 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#ffd33d" opacity=".9"/><path class="sparkle" style="animation-delay:0.7s" d="M268 130 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#ffd33d" opacity=".9"/><path class="sparkle" style="animation-delay:1.4s" d="M94 238 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#ffd33d" opacity=".9"/><path class="sparkle" style="animation-delay:2.1s" d="M280 236 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#ffd33d" opacity=".9"/><path class="sparkle" style="animation-delay:1.1s" d="M185 84 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#ffd33d" opacity=".9"/>
+</g>
+<g>
+  <text x="370" y="66" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">The Knight</text>
+  <text x="370" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#8b949e">Stage Sprout · 806 contributions this year</text>
+  <circle cx="836" cy="64" r="31" fill="#161b22" stroke="#56d364" stroke-width="2.5"/>
+  <text x="836" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9" letter-spacing="1.5" fill="#8b949e">LEVEL</text>
+  <text x="836" y="80" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="24" font-weight="700" fill="#e6edf3">8</text>
+  <text x="370" y="124" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">2.5k XP</text>
+  <text x="840" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">97 XP to Lv 9</text>
+  <rect x="370" y="132" width="470" height="16" rx="8" fill="#21262d" stroke="#30363d"/>
+  <rect x="370" y="132" width="394.0" height="16" rx="8" fill="url(#xp)"/>
+  <rect x="370" y="172" width="110" height="60" rx="12" fill="#161b22" stroke="#30363d"/><text x="425" y="200" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="22" font-weight="700" fill="#e6edf3">1</text><text x="425" y="219" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" fill="#8b949e">DAY STREAK</text><rect x="490" y="172" width="110" height="60" rx="12" fill="#161b22" stroke="#30363d"/><text x="545" y="200" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="22" font-weight="700" fill="#e6edf3">16</text><text x="545" y="219" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" fill="#8b949e">CONTRIB 7D</text><rect x="610" y="172" width="110" height="60" rx="12" fill="#161b22" stroke="#30363d"/><text x="665" y="200" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="22" font-weight="700" fill="#e6edf3">806</text><text x="665" y="219" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" fill="#8b949e">CONTRIBUTIONS</text><rect x="730" y="172" width="110" height="60" rx="12" fill="#161b22" stroke="#30363d"/><text x="785" y="200" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="22" font-weight="700" fill="#e6edf3">10</text><text x="785" y="219" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" fill="#8b949e">ACTIVE 30D</text>
+  <text x="370" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#8b949e">Mood <tspan fill="#e6edf3" font-weight="600">Ecstatic</tspan></text>
+  <text x="520" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" fill="#8b949e">Fed <tspan fill="#e6edf3" font-weight="600">today</tspan></text>
+  <text x="840" y="260" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#8b949e">updated 2026-11-26</text>
+  <text x="370" y="290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#6e7681">@honoursbhaduria · public contribution calendar</text>
+  <text x="840" y="290" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#6e7681">longest streak 10d</text>
+</g>
+</svg>
